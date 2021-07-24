@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @samaneh
-- 👀 I’m interested in Travel and Sport.
 - 🌱 I’m currently learning Node.js and React.js.
 - 📫 How to reach me vist my website https://www.samanehvj.com/
 
