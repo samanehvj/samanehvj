@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @samaneh
-- 🌱 I’m currently learning Node.js and React.js.
+- 👋 Hi, I’m samaneh
 - 📫 How to reach me vist my website https://www.samanehvj.com/
 
 <!---
