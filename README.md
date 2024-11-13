@@ -1,5 +1,7 @@
 # 💫 About Me:
-🌐 I'm currently working on:a project aimed at creating a more efficient <br>system for enabling better communication between patients and doctors.<br>🌱 I'm currently learning:  UI/UX design to enhance my skills in creating <br>user-friendly and visually appealing interfaces. <br>⚡Fun fact: I’m fluent in Farsi and love sharing about my culture. When I’m not coding, you can find me exploring new<br>places or experimenting with a new hobby.
+🌐 I'm currently working on:a project aimed at creating a more efficient system for enabling better communication between patients and doctors.<br>
+🌱 I'm currently learning:UI/UX design to enhance my skills in creating user-friendly and visually appealing interfaces.<br>
+⚡Fun fact: I’m fluent in Farsi and love sharing about my culture. When I’m not coding, you can find me exploring new places or experimenting with a new hobby.
 
 
 ## 🌐 Socials:
